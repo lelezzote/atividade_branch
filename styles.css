@@ -50,3 +50,14 @@ button {
   color: gray;
 }
 
+.remover {
+  float: right;
+  background: red;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
